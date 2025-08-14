@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, sou o Kaique! 🧑🏻‍💻</h1>
+  <h1>🧑🏻‍💻 Olá, sou o Kaique!</h1>
   <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>
 </div>
 
@@ -27,6 +27,8 @@
   </a>
 </div>
 
+<hr style="border: none; border-top: 1px solid #bf91f3; margin: 20px 0; border-radius: 5px;">
+
 <div align="center">
   <h3>🤖 Linguagens e Tecnologias</h3>
 </div>
@@ -38,8 +40,10 @@
   <img alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
+<hr style="border: none; border-top: 1px solid #bf91f3; margin: 20px 0; border-radius: 5px;">
+
 <div align="center">
-  <h3>⚒️Ferramentas</h3>
+  <h3>⚒️ Ferramentas</h3>
 </div>
 
 <div align="center">
@@ -49,17 +53,19 @@
   <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div>
 
+<hr style="border: none; border-top: 1px solid #bf91f3; margin: 20px 0; border-radius: 5px;">
+
 <div align="center">
   <h3>📊 Estatísticas</h3>
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=souzakaique&show_icons=true&theme=ayu-mirage&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api?username=souzakaique&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true" 
   />
   <img 
     alt="Top Linguagens" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzakaique&theme=ayu-mirage&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzakaique&layout=compact&theme=midnight-purple&bg_color=00000000&hide_border=true" 
   />
 </div>
 
