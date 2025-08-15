@@ -60,12 +60,12 @@
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=souzakaique&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=SouzaKaique&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true" 
   />
   <img 
     alt="Top Linguagens" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzakaique&layout=compact&theme=midnight-purple&bg_color=00000000&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKaique&layout=compact&theme=midnight-purple&bg_color=00000000&hide_border=true" 
   />
 </div>
 
