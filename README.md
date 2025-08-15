@@ -69,5 +69,10 @@
   />
 </div>
 
-  <img src="https://raw.githubusercontent.com/SouzaKaique/SouzaKaique/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img
+    alt="github contribution grid snake animation dark"
+    src="https://raw.githubusercontent.com/SouzaKaique/SouzaKaique/output/github-contribution-grid-snake-dark.svg"
+  />
 </div>
+
