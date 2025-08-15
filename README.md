@@ -69,9 +69,5 @@
   />
 </div>
 
-<div align="center">
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
+  <img src="https://raw.githubusercontent.com/SouzaKaique/SouzaKaique/output/snake.svg" alt="Snake animation" />
 </div>
