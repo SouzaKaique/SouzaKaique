@@ -37,7 +37,7 @@
   <img alt="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Angular" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 </div>
 
 <hr style="border: none; border-top: 1px solid #bf91f3; margin: 20px 0; border-radius: 5px;">
@@ -59,13 +59,13 @@
   <h3>📊 Estatísticas</h3>
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=SouzaKaique&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true" 
   />
   <img 
     alt="Top Linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKaique&layout=compact&theme=midnight-purple&bg_color=00000000&hide_border=true" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKaique&theme=midnight-purple&bg_color=00000000&hide_border=true&layout=donut" 
   />
 </div>
 
@@ -75,4 +75,3 @@
     src="https://raw.githubusercontent.com/SouzaKaique/SouzaKaique/output/github-contribution-grid-snake-dark.svg"
   />
 </div>
-
